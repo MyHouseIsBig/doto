@@ -15,14 +15,13 @@ import './Assets/css/default.min.css';
 function App() {
   return (
     <Router>
-    <div className="App">
-      
-      <Header />
+      <div className="App">
 
         <Route exact path='/' component={Homepage} />
         <Route exact path='/newpage' component={NewPage} />
-    
-    </div>
+
+        <Header />
+      </div>
     </Router>
   );
 }
