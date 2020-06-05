@@ -1,8 +1,7 @@
 {
-  "homepage": "http://selfdevtv.github.io/trello-clone",
-  "name": "trello-clone",
-  "version": "0.1.0",
-  "private": true,
+  "name": "doto",
+  "version": "0.2.0",
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
